@@ -1,0 +1,6 @@
+{
+    "venvPath": "F:/repository/AIService",  // Caminho para o diretório contendo a pasta venv
+    "venv": "venv",  // Nome do ambiente virtual
+    "pythonVersion": "3.8",  // Ou a versão que você está usando
+    "include": ["services", "config"]
+}
